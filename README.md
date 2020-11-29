@@ -1,7 +1,7 @@
 <h1 align='center'>Kaggle ML & DS Survey 2020</h1>
 
 <p align="center">
-  <img src="https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/kaggle_logo.png" width=600>
+  <img src="https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/header.png" width=1000>
 </p>
 
  [2020 Kaggle ML & DS Survey](https://www.kaggle.com/c/kaggle-survey-2020/overview) is the fourth edition of the annual industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October, and kaggle collected a little more than __20000__ responses.
@@ -37,11 +37,13 @@ According to the Survey Methodology provided with the Data, a respondent can be 
 ## Exploratory Data Analysis:
 EDA of the data provides an overview of the demographic distributions and general trends in terms of Age, Location, Qualification, Experience, etc. <br> 
 Since all the graphs and plots are created using Plotly, it is advised to look at the EDA Python Notebook (2020-kaggle-ml-ds-survey-analysis.ipynb) in [Kaggle Notebooks](https://www.kaggle.com/chawla201/2020-kaggle-ml-ds-survey-analysis) in [nbviewer](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/2020-kaggle-ml-ds-survey-analysis.ipynb) as github does not support interactive graphs.
-<h5 align="center">General Demographic Distributions</h5>
+
 <table>
   <tr><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/age_dist.png' width=600></td><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/gender.png' width=600></td></tr>
   <tr><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/country.png' width=600></td><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/education.png' width=600></td></tr>
 </table>
-
+<p align="center">
+  <img src="https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/wordcloud.png" width=1000>
+</p>
 
 

@@ -1,7 +1,7 @@
 <h1 align='center'>Kaggle ML & DS Survey 2020</h1>
 
 <p align="center">
-  <img src="https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/kaggle_logo.png" width=600>
+  <img src="https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/header.png" width=600>
 </p>
 
  [2020 Kaggle ML & DS Survey](https://www.kaggle.com/c/kaggle-survey-2020/overview) is the fourth edition of the annual industry-wide survey that presents a truly comprehensive view of the state of data science and machine learning. The survey was live for 3.5 weeks in October, and kaggle collected a little more than __20000__ responses.

@@ -40,7 +40,8 @@ Since all the graphs and plots are created using Plotly, it is advised to look a
 <br>
 We have two EDA files:
 - [EDA (All Respondents)](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/EDA%20%28All%20Respondents%29.ipynb)
-- [EDA (Professionals)](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/EDA%20%28Professionals%29.ipynb) <br>
+- [EDA (Professionals)](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/EDA%20%28Professionals%29.ipynb)
+
 In the first one, I considered responses from all the respondents. Whereas in the second exploratory data analysis file, I have considered **only working professionals** to get a better sense of how the professional landscape of Kagglers looks.
 
 <table>

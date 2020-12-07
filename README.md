@@ -42,8 +42,6 @@ Since all the graphs and plots are created using Plotly, it is advised to look a
   <tr><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/age_dist.png' width=600></td><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/gender.png' width=600></td></tr>
   <tr><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/country.png' width=600></td><td><img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/education.png' width=600></td></tr>
 </table>
-<p align="center">
-  <img src="https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/wordcloud.png" width=1000>
-</p>
+
 
 

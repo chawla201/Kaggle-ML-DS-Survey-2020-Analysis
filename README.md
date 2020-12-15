@@ -51,5 +51,9 @@ In the first one, I considered responses from all the respondents. Whereas in th
 <br>
 
 ## Final Analysis
-[Scientists vs Analysts](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/Scientists%20vs%20Analysts.ipynb)
+[Scientists vs Analysts](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/Scientists%20vs%20Analysts.ipynb) is a comparative study between Data Scientists, Data Analysts, and Business Analysts. The main focus of the analysis is the difference in the duties they perform and the difference between their annual salaries based on the country they reside in and their educational background. This analysis also highlights how underpaid are Indian data science professionals as compared to the ones in the US.<br>
+<img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/newplot%20(19).png' width=800 height=500>
+<img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/newplot%20(18).png' width=800 height=500>
+<img src='https://github.com/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/images/newplot%20(16).png' width=900 height=500>
+
 

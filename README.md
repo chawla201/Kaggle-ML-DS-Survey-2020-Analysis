@@ -50,5 +50,6 @@ In the first one, I considered responses from all the respondents. Whereas in th
 </table>
 <br>
 
-
+## Final Analysis
+[Scientists vs Analysts](https://nbviewer.jupyter.org/github/chawla201/Kaggle-ML-DS-Survey-2020-Analysis/blob/master/Scientists%20vs%20Analysts.ipynb)
 
